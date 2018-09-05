@@ -1,0 +1,3 @@
+Git init
+Git add .
+git commit -m "first commit"
