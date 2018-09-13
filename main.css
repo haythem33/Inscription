@@ -1,0 +1,66 @@
+
+    
+
+.dev1 {
+    
+    border: 1px solid black;
+    color: white;
+    background-color: black;
+    display: flex;
+}
+.dev:hover{
+    border: 1px solid black;
+    
+
+}
+.Acceuil {
+    font-size: 20px;
+    
+    padding: 20px;
+
+}
+.Statistique {
+     font-size: 20px;
+    
+     padding: 20px;
+}
+.About {
+    font-size: 20px;
+    
+    padding: 20px;
+    position: relative;
+    left: 1042px;
+}
+.Acceuil:hover {
+    border: 1px solid white;
+    color: black;
+    background-color: white;
+    
+}
+.Statistique:hover {
+    border: 1px solid white;
+    color: black;
+    background-color: white;
+}
+.About:hover {
+    border: 1px solid white;
+    color: black;
+    background-color: white;
+}
+
+body {
+    display: block;
+    margin: 0px;
+}
+.ii {
+    border: 1px solid;
+    background-image: url(image/d.jpg);
+    background-size: 100%;
+    padding: 146px;
+    background-repeat: no-repeat;
+}
+
+
+
+
+
